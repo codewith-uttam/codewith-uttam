@@ -16,10 +16,16 @@ Email Me 👉 ✉️ **sankalp.uttam04@gmail.com** For Collaboration/Project or 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/me.uttamsharma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meuttamsharma) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Uttam_a_sharma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sankalp.uttam04@gmail.com) 
 
-<!-- Snake Game Repo View -->
+<!-- GitHub Contribution Snake -->
+
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewith-uttam/codewith-uttam/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewith-uttam/codewith-uttam/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/codewith-uttam/codewith-uttam/output/github-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </div>
 
 # 💻 Tech Stack:
